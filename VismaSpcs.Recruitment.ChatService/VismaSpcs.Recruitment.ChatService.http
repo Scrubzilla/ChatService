@@ -1,0 +1,6 @@
+@VismaSpcs.Recruitment.ChatService_HostAddress = http://localhost:5227
+
+GET {{VismaSpcs.Recruitment.ChatService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
